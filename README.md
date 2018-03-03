@@ -1,4 +1,5 @@
 ﻿# Student Developer Initiative
+ ### Sign up here: https://goo.gl/forms/VOTFFD7t9ctBNI6M2
 **Table of Contents**
 
  1. Introduction
