@@ -38,6 +38,7 @@
 # Introduction
 This program was developed for engineering students who want to go above and beyond the cirriculum set by VTU. Whether you want to be an entrepreneur, want to get a high paying job or just curious; this program will provide you with the skill sets required in the modern software world.
 
+![headlines image](/img/Slide3.png)
 
 ## Why This is Important
 
