@@ -1,5 +1,5 @@
 ﻿# Student Developer Initiative
- ### Sign up here: https://goo.gl/forms/VOTFFD7t9ctBNI6M2
+### Sign up here: https://goo.gl/forms/VOTFFD7t9ctBNI6M2
 **Table of Contents**
 
  1. Introduction
@@ -46,12 +46,22 @@ This program was developed for engineering students who want to go above and bey
 According to [India Today](https://www.indiatoday.in/education-today/featurephilia/story/engineering-employment-problems-329022-2016-07-13),[HackerEarth](http://www.hackerearth.com/blog/talent-assessment/90-indian-engineering-candidates-employable-why/) and other sources, a large percentage of engineers are unemployable when they graduate because they lack the necessary skills required by companies and corporations. The truth is that world of Computer Science and Engineering changes rapidly, and while the standard VTU syllabus covers the basics (which is very important), we need **something more** to enable students to be able to build amazing products that adhere to standards, collaborate better and share what they know.
 
 This program aims to be that **something more**.
+## Why we prioritize Projects and Github profiles 
 
+![image](/img/Slide9.png)
+image courtesy hackerrank
 ## The Holy Trinity (According to us....)
+Below is some data and studies done by Hackerrank and Github:
+
+![image](/img/Slide5.png)
+
+![image](/img/Slide6.png)
+
 - **Java** because it can be used anywhere. Server back-ends, Android apps, desktop software, networking apps, web apps, etc . If written properly, Java can be amazing to use.
 - **Python** because it's easy to learn and even easier to use. Most of us use python for data scraping and analysis, but using a Framework like Django or Flask allows you to develop web apps as well. 
 - **JavaScript** to build responsive web apps. Node.js lets you write JavaScript for the back-end. React Native lets you build cross platform web UIs. Building modern web apps is impossible without an advanced understanding of JavaScript.
 
+![trinity](/img/Slide4.png)
 ## What you'll learn (beyond code)
 
 - Collaboration with other people
@@ -140,6 +150,9 @@ Semester 6 is all about the Cloud. We'll start with AWS EC2, move on to other AW
 
 Finally, you'll learn how to use the PAAS solution Heroku for deploying and scaling applications. Even though it's optional we suggest you take a look at it as it is simplifies your deployment process.
 
+# Overview
+
+![overview](/img/Slide10.png)
 # Why no semester 7 or 8?
 
 This is where you should focus on internships, getting placed, Entrance exams, etc. We've left out this section so that you can learn whatever you want. Once you get here, it's your job to help out your juniors with the knowledge you've obtained from this program.
