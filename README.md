@@ -39,7 +39,7 @@
 # Introduction
 This program was developed for engineering students who want to go above and beyond the cirriculum set by VTU. Whether you want to be an entrepreneur, want to get a high paying job or just curious; this program will provide you with the skill sets required in the modern software world.
 
-![headlines image](/img/Slide3.png)
+![headlines image](/img/Slide3.PNG)
 
 ## Why This is Important
 
@@ -48,20 +48,20 @@ According to [India Today](https://www.indiatoday.in/education-today/featurephil
 This program aims to be that **something more**.
 ## Why we prioritize Projects and Github profiles 
 
-![image](/img/Slide9.png)
+![image](/img/Slide9.PNG)
 image courtesy hackerrank
 ## The Holy Trinity (According to us....)
 Below is some data and studies done by Hackerrank and Github:
 
-![image](/img/Slide5.png)
+![image](/img/Slide5.PNG)
 
-![image](/img/Slide6.png)
+![image](/img/Slide6.PNG)
 
 - **Java** because it can be used anywhere. Server back-ends, Android apps, desktop software, networking apps, web apps, etc . If written properly, Java can be amazing to use.
 - **Python** because it's easy to learn and even easier to use. Most of us use python for data scraping and analysis, but using a Framework like Django or Flask allows you to develop web apps as well. 
 - **JavaScript** to build responsive web apps. Node.js lets you write JavaScript for the back-end. React Native lets you build cross platform web UIs. Building modern web apps is impossible without an advanced understanding of JavaScript.
 
-![trinity](/img/Slide4.png)
+![trinity](/img/Slide4.PNG)
 ## What you'll learn (beyond code)
 
 - Collaboration with other people
@@ -152,7 +152,7 @@ Finally, you'll learn how to use the PAAS solution Heroku for deploying and scal
 
 # Overview
 
-![overview](/img/Slide10.png)
+![overview](/img/Slide10.PNG)
 # Why no semester 7 or 8?
 
 This is where you should focus on internships, getting placed, Entrance exams, etc. We've left out this section so that you can learn whatever you want. Once you get here, it's your job to help out your juniors with the knowledge you've obtained from this program.
