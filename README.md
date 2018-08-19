@@ -1,5 +1,6 @@
 ﻿# Student Developer Initiative
 ### Sign up here: https://goo.gl/forms/VOTFFD7t9ctBNI6M2
+### First years can join here: https://goo.gl/forms/IsaATfidxk1NsRZj2
 **Table of Contents**
 
  1. Introduction
