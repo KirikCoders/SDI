@@ -115,7 +115,7 @@ Even though most of the things mentioned here are neatly divided into semesters,
 
 `Nothing worth doing is easy`. There are times when you may want to quit. At those times, dig deep, take a walk, go to bed and come back to your problem later. The key thing here is to `never give up`.
 
-# Semester 3/4
+# Semester 1/2
 
 PHP is optional but we suggest you learn it so that you can quickly build web apps to test out ideas. You can also use Java if you think you'll need to scale quickly.
 
@@ -132,16 +132,16 @@ Here are the guidelines for projects:
 
 Make the project and you're in. Don't worry if you didn't make it, since you can still follow this guide to it's end.
 
-# Semester 5
-In Semester 5, we'll focus on building android apps with Java. Recommended Guide is the Android developers program by Google on Udacity. If you still want to read, a few books have been provided in the semester 5 directory. Android is hard and the best way to learn is to build an app. Want ideas? Ask anybody. No seriously.
+# Semester 3/4 
+In Semester 3, we'll focus on building android apps with Java. Recommended Guide is the Android developers program by Google on Udacity. If you still want to read, a few books have been provided in the semester 5 (not a mistake) directory. Android is hard and the best way to learn is to build an app. Want ideas? Ask anybody. No seriously.
 
-You'll also be learning how to build reactive web apps using React and Redux. Why React? It's easier to learn and makes web apps extremely modular by turning them into components. Again mastering React is a matter of experience so try and build something with it.
+ In semester 4 you'll also be learning how to build reactive web apps using React and Redux. Why React? It's easier to learn and makes web apps extremely modular by turning them into components. Again mastering React is a matter of experience so try and build something with it. Node.js and Angular are also included this semester.
 
 You'll also need to work on and maintain some of CSE department apps that have been built by your seniors.
 
 Same rules for the projects apply. **It's now mandatory to work in a team of 4 for a project**.
 
-# Semester 6
+# Semester 5/6
 
 Alright! You've learnt how to build some fancy stuff by now, hopefully. Now it's time to share them with the world.
 
