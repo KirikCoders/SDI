@@ -75,7 +75,6 @@ Below is some data and studies done by Hackerrank and Github:
 - No laptop? No problem! Download [Dcoder](http://dcoder.tech/) for Android. But it's recommended you get a laptop or PC soon. 
 - [Udacity](https://in.udacity.com/) (Don't pay for a nano degree. That's our advice.)
 - [FreeCodeCamp for web development](https://www.freecodecamp.org/)
-- [Prefer textbooks to videos?](https://pastebin.com/1x0zS15y)
 - [CodeMonk](https://www.hackerearth.com/practice/codemonk/)
 - HackerEarth for competitive programming
 - HackerRank for competitive programming
